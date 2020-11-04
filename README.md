@@ -1,2 +1,12 @@
 # jooby-guice
-Demo Jooby + Guice w/ Classgraph
+
+Welcome to jooby-guice!!
+
+## running
+
+    ./gradlew joobyRun
+
+## building
+
+    ./gradlew build
+
